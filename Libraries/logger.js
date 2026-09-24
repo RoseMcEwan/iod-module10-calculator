@@ -2,6 +2,6 @@ const log = (message) => {
   console.log(message);
 };
 
-module.exports = {
+module.exports = { 
   log,
 };
